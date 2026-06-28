@@ -1,0 +1,28 @@
+# ============================================================
+# requirements.txt — Project Dependencies
+# INDIA RUNS Hiring Challenge | Hack2skill × Redrob
+# Author: Er. Priya More
+# ============================================================
+
+# --- Core Data Processing ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- JSON / File Handling ---
+python-docx>=0.8.11
+
+# --- AI / Claude API ---
+anthropic>=0.25.0
+
+# --- Streamlit Dashboard ---
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# --- Progress Bar ---
+tqdm>=4.66.0
+
+# --- Date handling ---
+python-dateutil>=2.8.2
+
+# --- YAML ---
+pyyaml>=6.0.1
