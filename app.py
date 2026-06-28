@@ -110,7 +110,7 @@ def main():
     st.divider()
 
     # Load submission CSV
-    submission_df = load_submission("output/submission.csv")
+    submission_df = load_submission("submission.csv")
 
     if submission_df.empty:
         st.error("submission.csv not found! Please run ranker.py first.")
