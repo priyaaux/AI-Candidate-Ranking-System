@@ -184,5 +184,9 @@ Data Analyst & Software Developer
 Skills: Python, SQL, ML, Power BI, Tableau, Streamlit, Flask, Azure
 
 ---
+## 🔗 Live Demo
+[Streamlit Dashboard](https://ai-candidate-ranking-system-5jnkkmnd8ejpprkqsuwsfx.streamlit.app/)
 
+## 🔗 GitHub Repository  
+[AI-Candidate-Ranking-System](https://github.com/priyaaux/AI-Candidate-Ranking-System)
 *Built for INDIA RUNS Hiring Challenge 2026 | Hack2skill × Redrob*
