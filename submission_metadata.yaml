@@ -1,0 +1,36 @@
+# ============================================================
+# Submission Metadata
+# INDIA RUNS Hiring Challenge | Hack2skill x Redrob
+# ============================================================
+
+participant:
+  name: "Er. Priya More"
+  email: "priyamore103@gmail.com"
+  phone: "9175281326"
+  linkedin: "https://www.linkedin.com/in/priya-more-61a967259/"
+
+track: "Track 1 - Data & AI"
+
+submission:
+  github_repo: ""
+  streamlit_app: ""
+  submission_file: "output/submission.csv"
+
+approach:
+  method: "Rule-based hybrid scoring with honeypot detection"
+  components:
+    - name: "Skill Match Score"
+      weight: 0.35
+    - name: "Career Fit Score"
+      weight: 0.35
+    - name: "Behavioral Score"
+      weight: 0.20
+    - name: "Education Score"
+      weight: 0.10
+
+pipeline_stats:
+  total_candidates: 100000
+  honeypots_removed: 7515
+  filtered_out: 32162
+  candidates_scored: 60323
+  final_ranked: 100
